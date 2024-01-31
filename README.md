@@ -3,6 +3,4 @@ This repository is private, and the creator of this repository will not be respo
 
 Any scripts, software, or other services offered in this repository are proprietary execution files built with {30D} client code.
 
-Warning The tool uses all the resources of the device to quickly drop the target ⚠️⚠️⚠️
-
 # process number "127.4.18.30d"
